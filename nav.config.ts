@@ -11,7 +11,7 @@ const c: IConfig = {
   theme: 'sim',
 
   // 海报图, 只支持 sim 主题
-  posterImageUrl: 'https://img.imgdb.cn/item/6002da903ffa7d37b3fbdc0d.jpg',
+  posterImageUrl: 'assets/img/wallpaper.jpg',
 
   // 搜索引擎列表, 为空时不显示搜索引擎
   // 自定义引擎 icon 请使用网络图标
