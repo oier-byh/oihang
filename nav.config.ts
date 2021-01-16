@@ -2,13 +2,13 @@ import { IConfig } from './src/types'
 
 const c: IConfig = {
   // [必填], 请填写您的仓库地址
-  gitRepoUrl: 'https://github.com/xjh22222228/nav',
+  gitRepoUrl: 'https://github.com/oier-byh/oihang',
 
   // 网站标题
-  title: '发现导航 - 精选实用导航网站',
+  title: 'OIHang - 逐梦启航',
 
   // 默认主题: light | sim
-  theme: 'light',
+  theme: 'sim',
 
   // 海报图, 只支持 sim 主题
   posterImageUrl: 'assets/img/wallpaper.jpg',
