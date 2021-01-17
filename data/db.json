@@ -37,6 +37,28 @@
                                 "name": "VTOJ",
                                 "url": "https://www.oigat.cn/",
                                 "desc": "Vegetable OJ 是一个年轻的 OJ，官方团队基于 UOJ 进行了 UI 重构。"
+                            },
+                            {
+                                "name": "HDUOJ",
+                                "url": "http://acm.hdu.edu.cn/",
+                                "desc": "杭州电子科技大学 ACM OJ，英文题面，题目多、部分题目质量高。"
+                            },
+                            {
+                                "name": "POJ",
+                                "url": "http://poj.org",
+                                "desc": "北京大学 ACM OJ，非常经典，英文题面，题目多、部分题目质量高。"
+                            }
+                        ]
+                    },
+                    {
+                        "title": "国外",
+                        "icon": "https://img.imgdb.cn/item/600374a23ffa7d37b33bd069.png",
+                        "nav": [
+                            {
+                                "name": "【镜像】Codeforces",
+                                "icon": "https://img.imgdb.cn/item/600381583ffa7d37b33fc7fc.jpg",
+                                "url": "https://codeforces.ml",
+                                "desc": "Codeforces 是一个提供在线评测系统的俄罗斯网站，比赛多、质量高。"
                             }
                         ]
                     }
