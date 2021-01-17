@@ -47,6 +47,11 @@
                                 "name": "POJ",
                                 "url": "http://poj.org",
                                 "desc": "北京大学 ACM OJ，非常经典，英文题面，题目多、部分题目质量高。"
+                            },
+                            {
+                                "name": "DarkBZOJ",
+                                "url": "https://darkbzoj.tk",
+                                "desc": "BZOJ 的题面爬取和数据迁移版，5000余道高质量难题。"
                             }
                         ]
                     },
@@ -71,6 +76,12 @@
                                 "icon": "https://img.imgdb.cn/item/60038b3d3ffa7d37b3447fd6.jpg",
                                 "url": "https://www.spoj.com/",
                                 "desc": "SPOJ 是一个波兰经典 OJ，题目多，类型丰富，适合进阶选手练习。"
+                            },
+                            {
+                                "name": "AtCoder",
+                                "icon": "https://img.imgdb.cn/item/600391fb3ffa7d37b3471d25.jpg",
+                                "url": "https://atcoder.jp",
+                                "desc": "AtCoder 是一个日本经典 OJ，均为日文题面，门槛较高。"
                             }
                         ]
                     }
